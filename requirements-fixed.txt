@@ -1,0 +1,9 @@
+streamlit==1.32.0
+langchain==0.1.17
+langchain-core==0.1.52
+langchain-google-genai
+python-dotenv==1.0.1
+requests==2.32.3
+numpy==1.24.3
+pandas==2.0.3
+pydantic==2.5.0
